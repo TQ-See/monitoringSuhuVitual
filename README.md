@@ -1,6 +1,11 @@
 # 🌡️ IoT Monitoring Suhu & Kelembapan Virtual (ESP32 + DHT22 + Wokwi + Adafruit IO)
-
 Proyek ini adalah simulasi sistem monitoring suhu dan kelembapan menggunakan **sensor DHT22** yang terhubung ke **ESP32**, dengan data yang dikirim ke **Adafruit IO** menggunakan protokol MQTT. Semua pengujian dilakukan secara virtual menggunakan **Wokwi Simulator**.
+
+<img width="961" height="696" alt="{822E1B10-0F07-4FDE-BC48-E91580E03479}" src="https://github.com/user-attachments/assets/2f881164-2170-4df0-a010-25497d07b0cf" />
+
+<br>
+<br>
+
 
 ---
 
